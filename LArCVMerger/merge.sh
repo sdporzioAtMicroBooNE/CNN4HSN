@@ -1,4 +1,4 @@
-nOutFiles=0
+nOutFiles=1
 
 for i in $(seq 0 ${nOutFiles})
 do
